@@ -12,6 +12,7 @@ As of now, official template uses Webpack 2 and older NPM packages, and it hasn'
 - Updated NPM packages
 - Supports Bootstrap 4
 - Supports WebPack 4
+- Added Serilog
 
 Other than that it has minor changes to VueJS original files.
 
