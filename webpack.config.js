@@ -36,6 +36,7 @@ module.exports = (env) => {
             publicPath: 'dist/'
         },
         plugins: [
+            // make sure to include the plugin for the magic
             new VueLoaderPlugin(),
             new webpack.DefinePlugin({
                 'process.env': {
