@@ -2,16 +2,11 @@
 
 This is a modified template based upon official Microsoft.AspNetCore.SpaTemplate::*
 
-**IMPORTANT** It's strongly recommended to use Bootstrap 4.1.3 or newer. It's relatively easy to migrate.
-
-As of now, official template uses Webpack 2 and older NPM packages, and it hasn't been migrated to .Net Core 2.1.
-
 ## This template has the following changes:
 
 - Migrated to .Net Core 2.1
 - Updated NPM packages
-- Supports Bootstrap 4
-- Supports WebPack 4
+- Updated to WebPack 4
 - Added Serilog
 
 Other than that it has minor changes to VueJS original files.
